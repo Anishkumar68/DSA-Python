@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "eed9bf5de12b1a10",
+    "type": "split",
+    "children": [
+      {
+        "id": "86e70001d4be1d7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c914d9249139fd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-08-21 Hashing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-21 Hashing"
+            }
+          },
+          {
+            "id": "22fe419e41de3039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python interview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "python interview"
+            }
+          },
+          {
+            "id": "644edf4278075757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-08-10 DS type and linked list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-10 DS type and linked list"
+            }
+          },
+          {
+            "id": "1ee77bcd4a2066d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "code daily.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "code daily"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f0fa574b294d948",
+    "type": "split",
+    "children": [
+      {
+        "id": "e32eb5d3b11d74bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f073e79451eeca99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "98b585fdfae14186",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c90e78e8453c709",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9bd16ec703b1973",
+    "type": "split",
+    "children": [
+      {
+        "id": "63fb025001308269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd0f534fd7ae073",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-08-10 DS type.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-08-10 DS type"
+            }
+          },
+          {
+            "id": "ca061d3fbcf6f19b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-08-10 DS type.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-08-10 DS type"
+            }
+          },
+          {
+            "id": "ecc4f089114f460c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1c03d05070b49910",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fb196353180ef1fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-08-10 DS type.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-08-10 DS type"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1ee77bcd4a2066d8",
+  "lastOpenFiles": [
+    "2026-08-10 DS type and linked list.md",
+    "code daily.md",
+    "2026-08-15 Stack.md",
+    "2026-08-19 Queue.md",
+    "2026-08-21 Hashing.md",
+    "array_sorting_alog.png",
+    "SDE-1.md",
+    "python interview.md",
+    "1. 30-Day Goal.md",
+    "DSA_op_with_tc.png",
+    "2026-08-08 BIG-O.md",
+    "stack.png",
+    "Big-o complexity chart.png",
+    "2026-08-10.md",
+    "vlcsnap-2026-08-09-17h35m32s291.png",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
