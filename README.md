@@ -1,4 +1,4 @@
 # DSA-Python
 
-daily DSA challenges
-leet code
+1. daily DSA challenges
+2. leet code
