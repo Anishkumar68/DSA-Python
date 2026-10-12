@@ -28,7 +28,22 @@ class LinkedList:
             self.tail = new_node    
         self.len +=1
            
+    def pop(self):
+        if self.len == 0:
+            return None
+        temp = self.head
+        pre= self.head
 
+        # 11->5->4->None
+        while (temp.next):
+            pre = temp
+            temp = temp.next
+            # when temp = None break
+        # then, self.tail value will be pre means -1 so pre =5 
+        self.tail = pre 
+        self.tail.next = None
+        self.len -=1
+         
 
 
 
